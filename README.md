@@ -1,5 +1,7 @@
  # DataCentricKMeans Package Documentation
 
+  Link : [https://pypi.org/project/DataCentricKMeans/](https://pypi.org/project/DataCentricKMeans/)
+
  ## Introduction
 
  Introducing **DataCentricKmeans**: A fast, eco-friendly clustering solution that harnesses the power of geometry to revolutionize the classic k-means algorithm. Designed for both speed and sustainability, it offers unparalleled performance for your clustering needs—from small to big data sets. The package also provides API calls to existing faster alternatives of k-means.
